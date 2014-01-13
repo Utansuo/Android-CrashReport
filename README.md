@@ -1,0 +1,4 @@
+Android-CrashReport
+===================
+
+collect crashReport
